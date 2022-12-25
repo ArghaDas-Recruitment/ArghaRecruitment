@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Sourcing & Recruitment**
 
-- 📫 How to reach me **3jobs4argha@gmail.com**
+- 📫 How to reach me **das.babin94@gmail.com**
 
 - ⚡ Fun fact **I might Look Serious, But I'm Very Friendly**
 
