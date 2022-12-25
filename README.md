@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Argha Das</h1>
 <h3 align="center">Talent Scout|OSINT-SOCMINT R&D Enthusiastic|Diversity & Niece Hiring|People Analytics Practitioner</h3>
-<h1 align="center">Hi 👋, I'm Argha Das</h1>
-<img align="left alt="The HR Guy" width="200" src="https://i.pinimg.com/originals/cd/42/d8/cd42d8fc8f9c592694fa8033fdd55544.gif"
-<h3 align="center">Talent Scout|OSINT-SOCMINT R&D Enthusiastic|Diversity & Niece Hiring|People Analytics Practitioner</h3>
-
+<h1 align="center">Hi 👋, I'm Argha Das</h1>                                                                                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
 - 🔭 I’m currently working on **Leadership Recruitment**
