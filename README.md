@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Argha Das</h1>
 <h3 align="center">Talent Scout|OSINT-SOCMINT R&D Enthusiastic|Diversity & Niece Hiring|People Analytics Practitioner</h3>
-<img align="right alt="The HR Guy" width="400" src="https://i.pinimg.com/originals/cd/42/d8/cd42d8fc8f9c592694fa8033fdd55544.gif"
+<img align="right alt="The HR Guy" width="200" src="https://i.pinimg.com/originals/cd/42/d8/cd42d8fc8f9c592694fa8033fdd55544.gif"
 <h1 align="center">Hi 👋, I'm Argha Das</h1>
 <h3 align="center">Talent Scout|OSINT-SOCMINT R&D Enthusiastic|Diversity & Niece Hiring|People Analytics Practitioner</h3>
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Sourcing & Recruitment**
 
-- 📫 How to reach me **argha.d@codeclouds.com**
+- 📫 How to reach me **3jobs4argha@gmail.com**
 
 - ⚡ Fun fact **Do I Look Serious?**
 
