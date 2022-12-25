@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Argha Das</h1>
-<h3 align="center">Talent Scout|OSINT-SOCMINT R&D Enthusiastic|Diversity & Niece Hiring|People Analytics Practitioner</h3>
-<h1 align="center">Hi 👋, I'm Argha Das</h1>                                                                                                                           
+<h1 align="center">Hi there 👋, I'm Argha Das</h1>
+<h3 align="center">Talent Scout|OSINT-SOCMINT R&D Enthusiastic|Diversity & Niece Hiring|People Analytics Practitioner</h3                                                                                                                    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
 - 🔭 I’m currently working on **Leadership Recruitment**
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **3jobs4argha@gmail.com**
 
-- ⚡ Fun fact **Do I Look Serious?**
+- ⚡ Fun fact **I might Look Serious, But I'm Very Friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
